@@ -34,14 +34,3 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     I'll be using Git for learning the Android Mobile development, and also for making my commerical programs.
-
-
-    The main commands from lesson 1 are:
-        git clone
-        git log
-        git diff id1 id2
-        git checkout id
-
-    The main commands from lesson 2 are:
-        git init
-        git status
