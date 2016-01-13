@@ -8,3 +8,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
   Automatic pull might put some unnecessary overload on the network, no need to pull changes that are not complete yet. I might want 
   to have someelse contribute to the project, and when he finishes, I'd like to pull the changes not before.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+  Forks copies a repository from another account on GitHub and places it on my GitHub account, with a mention of the original contributer
+  Clone copies a repository from any account on GitHub and places it on my local device, or from a repository from my local device to the   same device with another name.
+  Branch creates another branch in the same repository.
