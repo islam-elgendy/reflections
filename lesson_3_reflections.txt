@@ -3,3 +3,8 @@ When would you want to use a remote repository rather than keeping all your work
   I can use a remote repository as a back-up to my files to save these files on the cloud rather than on local device. 
   Also, I can use a remote repository to share my work with others who can contribute to my project. 
   Furthermore, I can the remote repository to resume my work from elsewhere, as I'm not tied up with my own local device.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+  Automatic pull might put some unnecessary overload on the network, no need to pull changes that are not complete yet. I might want 
+  to have someelse contribute to the project, and when he finishes, I'd like to pull the changes not before.
