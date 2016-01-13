@@ -19,3 +19,9 @@ What is the benefit of having a copy of the last known state of the remote store
 
   This helps when we fetch the changes from GitHub and checking if there is a conflict between a change that was made locally, and a     change that was made remotely. After that, we can resolve that conflict loaclly and push the changes to GitHub.
   This has the benifit of syncronizing the local and remote repository without conflict.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  I'll have to collaborate using standard methods, by using e-mail and attach my changes.
+  The regular way would take less steps, but it will be harder to see the changes, and collaborate with many people.
+  Using Git and GitHub fixes this problem.
